@@ -12,6 +12,17 @@
 0.0.0.0 help.kik.com
  
 # ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: REDDIT
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-reddit.txt
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 sendbirdproxyk8s.chat.redditmedia.com
+0.0.0.0 s.reddit.com
+ 
+# ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: WHATSAPP
 # ----------------------------------------------------------
 # Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/messaging/blocklist-messaging-whatsapp.txt
@@ -82,6 +93,17 @@
 0.0.0.0 scontent-msp1-1.cdninstagram.com
 0.0.0.0 instagram.c10r.facebook.com
 0.0.0.0 graph.instagram.com
+ 
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: REDDIT
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-reddit.txt
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
  
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: PERISCOPE

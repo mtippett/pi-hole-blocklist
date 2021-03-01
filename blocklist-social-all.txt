@@ -53,6 +53,17 @@
 0.0.0.0 graph.instagram.com
  
 # ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: REDDIT
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-reddit.txt
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+ 
+# ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: PERISCOPE
 # ----------------------------------------------------------
 # Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-periscope.txt
