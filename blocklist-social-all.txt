@@ -148,7 +148,9 @@
 0.0.0.0 log2.musical.ly
 0.0.0.0 api2-21-h2.musical.ly
 0.0.0.0 musically.ly
-
+0.0.0.0 api22-normal-c-useast1a.tiktokv.com
+0.0.0.0	pull-hls-w5-va01.tiktokcdn.com
+0.0.0.0 pull-f5-sg01.tiktokcdn.com
  
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: TUMBLR
