@@ -10,6 +10,12 @@
 0.0.0.0 gateway.discord.gg
 0.0.0.0 latency.discord.media
 0.0.0.0 status.discord.gg
+0.0.0.0 images-ext-2.discordapp.net
+0.0.0.0 status.discord.com
+0.0.0.0 cdn.discordapp.com
+0.0.0.0 us-central304.discord.media
+0.0.0.0 us-central2421.discord.media
+0.0.0.0 us-central507.discord.media
  
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: KIK
